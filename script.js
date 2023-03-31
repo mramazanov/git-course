@@ -1,1 +1,2 @@
 TestFileJavascript
+TestAfterChangeScript
